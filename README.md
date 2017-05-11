@@ -4,6 +4,7 @@ Resolução do desafio "Resize photos – SkyHub challenge" (disponível no arqu
 # Funcionamento
 Para rodar o script PHP, insira o arquivo **skyhub.php** no seu servidor e certifique-se de criar uma pasta chamada **images** no mesmo diretório.
 Para executá-lo basta acessar a página, enviando o endereço desejado:
+
 ```skyhub.php?link=endereco```
 
 **Exemplo**: skyhub.php?link=http://teste/images.json
